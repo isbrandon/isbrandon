@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @isbrandon, currently a 4th year student studying Computer Science at the University of Toronto!
-- 👀 I’m interested in software engineering and financial markets
-- 🌱 I’m currently learning about financial microstructure and derivatives 
-- 📫 You can reach me at isbrandon.nguyen@mail.utoronto.ca!
+
 
 <!---
 isbrandon/isbrandon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
